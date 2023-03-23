@@ -17,12 +17,12 @@
     In 2015, Coinbase raised $75 million in series C. 
     In 2017, Coinbase raised $100 million in series D. 
     In 2018, Coinbase raised $300 million in series E.
-    Aside from funding rounds, Coinbase also recived funding from individual investors and strategic partners.
+    Aside from funding rounds, Coinbase also received funding from individual investors and strategic partners.
 
 
 ## Business Activities
 
-* Coinbase strives to disrupt a number of financial problems associated with the traditional financial system within the area of payments and transfers such as limited access to financial services, high fees and transaction costs, slow transaction times, and lack of transperency and security.
+* Coinbase strives to disrupt a number of financial problems associated with the traditional financial system within the area of payments and transfers such as limited access to financial services, high fees and transaction costs, slow transaction times, and lack of transparency and security.
 
 * Coinbase aims to serve customers globally. Its customer base is diverse including individuals, institutions (hedge funds, asset managers, etc.), and businesses. 
 
